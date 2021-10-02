@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/WordGuess"
+        android:title="Word Guess Game"
+        app:showAsAction="never"
+        />
+    <item xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/NumGuess"
+        android:title="Number Guess game"
+        app:showAsAction="never"
+        />
+    <item xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/mainItem"
+        android:title="Main menu"
+        app:showAsAction="never"
+        />
+</menu>
